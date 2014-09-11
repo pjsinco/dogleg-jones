@@ -1,0 +1,2198 @@
+{
+    "2013-14": {
+        "1306": {
+            "2001": {
+                "id": "2",
+                "name": "Mercedes Championships"
+            },
+            "2002": {
+                "id": "65",
+                "name": "Mercedes Championships"
+            },
+            "2003": {
+                "id": "114",
+                "name": "Mercedes Championships"
+            },
+            "2004": {
+                "id": "147",
+                "name": "Mercedes Championships"
+            },
+            "2005": {
+                "id": "196",
+                "name": "Mercedes Championships"
+            },
+            "2006": {
+                "id": "248",
+                "name": "Mercedes Championships"
+            },
+            "2007": {
+                "id": "297",
+                "name": "Mercedes-Benz Championship"
+            },
+            "2008": {
+                "id": "413",
+                "name": "Mercedes-Benz Championship"
+            },
+            "2009": {
+                "id": "526",
+                "name": "Mercedes-Benz Championship"
+            },
+            "2010": {
+                "id": "764",
+                "name": "Hyundai Tournament of Champions"
+            },
+            "2011": {
+                "id": "892",
+                "name": "Hyundai Tournament of Champions"
+            },
+            "2012": {
+                "id": "1057",
+                "name": "Hyundai Tournament of Champions"
+            },
+            "2013": {
+                "id": "1181",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1306",
+                "name": "Hyundai Tournament of Champions"
+            }
+        },
+        "1307": {
+            "2001": {
+                "id": "8",
+                "name": "Bob Hope Chrysler Classic"
+            },
+            "2002": {
+                "id": "67",
+                "name": "Bob Hope Chrysler Classic"
+            },
+            "2003": {
+                "id": "117",
+                "name": "Bob Hope Chrysler Classic"
+            },
+            "2004": {
+                "id": "149",
+                "name": "Bob Hope Chrysler Classic"
+            },
+            "2005": {
+                "id": "198",
+                "name": "Bob Hope Chrysler Classic"
+            },
+            "2006": {
+                "id": "250",
+                "name": "Bob Hope Chrysler Classic"
+            },
+            "2007": {
+                "id": "298",
+                "name": "Bob Hope Chrysler Classic"
+            },
+            "2008": {
+                "id": "414",
+                "name": "Bob Hope Chrysler Classic"
+            },
+            "2009": {
+                "id": "527",
+                "name": "The 50th Bob Hope Classic hosted by Arnold Palmer"
+            },
+            "2010": {
+                "id": "765",
+                "name": "Bob Hope Classic"
+            },
+            "2011": {
+                "id": "893",
+                "name": "Bob Hope Classic"
+            },
+            "2012": {
+                "id": "1058",
+                "name": "Humana Challenge in partnership with the Clinton Foundation"
+            },
+            "2013": {
+                "id": "1182",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1307",
+                "name": "Humana Challenge in partnership with the Clinton Foundation"
+            }
+        },
+        "1308": {
+            "2001": {
+                "id": "5",
+                "name": "Phoenix Open"
+            },
+            "2002": {
+                "id": "68",
+                "name": "Phoenix Open"
+            },
+            "2003": {
+                "id": "116",
+                "name": "Phoenix Open"
+            },
+            "2004": {
+                "id": "150",
+                "name": "FBR Open"
+            },
+            "2005": {
+                "id": "199",
+                "name": "FBR Open"
+            },
+            "2006": {
+                "id": "251",
+                "name": "FBR Open"
+            },
+            "2007": {
+                "id": "299",
+                "name": "FBR Open"
+            },
+            "2008": {
+                "id": "415",
+                "name": "FBR Open"
+            },
+            "2009": {
+                "id": "528",
+                "name": "FBR Open"
+            },
+            "2010": {
+                "id": "766",
+                "name": "Waste Management Phoenix Open"
+            },
+            "2011": {
+                "id": "894",
+                "name": "Waste Management Phoenix Open"
+            },
+            "2012": {
+                "id": "996",
+                "name": "Waste Management Phoenix Open"
+            },
+            "2013": {
+                "id": "1183",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1308",
+                "name": "Waste Management Phoenix Open"
+            }
+        },
+        "1309": {
+            "2001": {
+                "id": "6",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2002": {
+                "id": "69",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2003": {
+                "id": "118",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2004": {
+                "id": "151",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2005": {
+                "id": "200",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2006": {
+                "id": "252",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2007": {
+                "id": "300",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2008": {
+                "id": "416",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2009": {
+                "id": "529",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2010": {
+                "id": "767",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2011": {
+                "id": "895",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2012": {
+                "id": "997",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            },
+            "2013": {
+                "id": "1184",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1309",
+                "name": "AT&T; Pebble Beach National Pro-Am"
+            }
+        },
+        "1310": {
+            "2001": {
+                "id": "7",
+                "name": "Buick Invitational"
+            },
+            "2002": {
+                "id": "70",
+                "name": "Buick Invitational"
+            },
+            "2003": {
+                "id": "119",
+                "name": "Buick Invitational"
+            },
+            "2004": {
+                "id": "152",
+                "name": "Buick Invitational"
+            },
+            "2005": {
+                "id": "201",
+                "name": "Buick Invitational"
+            },
+            "2006": {
+                "id": "253",
+                "name": "Buick Invitational"
+            },
+            "2007": {
+                "id": "301",
+                "name": "Buick Invitational"
+            },
+            "2008": {
+                "id": "417",
+                "name": "Buick Invitational"
+            },
+            "2009": {
+                "id": "530",
+                "name": "Buick Invitational"
+            },
+            "2010": {
+                "id": "768",
+                "name": "Farmers Insurance Open"
+            },
+            "2011": {
+                "id": "896",
+                "name": "Farmers Insurance Open"
+            },
+            "2012": {
+                "id": "998",
+                "name": "Farmers Insurance Open"
+            },
+            "2013": {
+                "id": "1185",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1310",
+                "name": "Farmers Insurance Open"
+            }
+        },
+        "1311": {
+            "2001": {
+                "id": "4",
+                "name": "Sony Open in Hawaii"
+            },
+            "2002": {
+                "id": "66",
+                "name": "Sony Open in Hawaii"
+            },
+            "2003": {
+                "id": "115",
+                "name": "Sony Open in Hawaii"
+            },
+            "2004": {
+                "id": "153",
+                "name": "Sony Open in Hawaii"
+            },
+            "2005": {
+                "id": "202",
+                "name": "Sony Open in Hawaii"
+            },
+            "2006": {
+                "id": "254",
+                "name": "Sony Open in Hawaii"
+            },
+            "2007": {
+                "id": "302",
+                "name": "Sony Open in Hawaii"
+            },
+            "2008": {
+                "id": "418",
+                "name": "Sony Open in Hawaii"
+            },
+            "2009": {
+                "id": "531",
+                "name": "Sony Open in Hawaii"
+            },
+            "2010": {
+                "id": "769",
+                "name": "Sony Open in Hawaii"
+            },
+            "2011": {
+                "id": "897",
+                "name": "Sony Open in Hawaii"
+            },
+            "2012": {
+                "id": "999",
+                "name": "Sony Open in Hawaii"
+            },
+            "2013": {
+                "id": "1186",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1311",
+                "name": "Sony Open in Hawaii"
+            }
+        },
+        "1312": {
+            "2001": {
+                "id": "9",
+                "name": "Nissan Open"
+            },
+            "2002": {
+                "id": "71",
+                "name": "Nissan Open"
+            },
+            "2003": {
+                "id": "120",
+                "name": "Nissan Open"
+            },
+            "2004": {
+                "id": "154",
+                "name": "Nissan Open"
+            },
+            "2005": {
+                "id": "203",
+                "name": "Nissan Open"
+            },
+            "2006": {
+                "id": "255",
+                "name": "Nissan Open"
+            },
+            "2007": {
+                "id": "303",
+                "name": "Nissan Open"
+            },
+            "2008": {
+                "id": "419",
+                "name": "Northern Trust Open"
+            },
+            "2009": {
+                "id": "532",
+                "name": "Northern Trust Open"
+            },
+            "2010": {
+                "id": "770",
+                "name": "Northern Trust Open"
+            },
+            "2011": {
+                "id": "898",
+                "name": "Northern Trust Open"
+            },
+            "2012": {
+                "id": "1000",
+                "name": "Northern Trust Open"
+            },
+            "2013": {
+                "id": "1187",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1312",
+                "name": "Northern Trust Open"
+            }
+        },
+        "1313": {
+            "2001": {
+                "id": "11",
+                "name": "Honda Classic"
+            },
+            "2002": {
+                "id": "75",
+                "name": "The Honda Classic"
+            },
+            "2003": {
+                "id": "123",
+                "name": "The Honda Classic"
+            },
+            "2004": {
+                "id": "156",
+                "name": "The Honda Classic"
+            },
+            "2005": {
+                "id": "205",
+                "name": "The Honda Classic"
+            },
+            "2006": {
+                "id": "257",
+                "name": "The Honda Classic"
+            },
+            "2007": {
+                "id": "304",
+                "name": "The Honda Classic"
+            },
+            "2008": {
+                "id": "420",
+                "name": "The Honda Classic"
+            },
+            "2009": {
+                "id": "533",
+                "name": "The Honda Classic"
+            },
+            "2010": {
+                "id": "771",
+                "name": "The Honda Classic"
+            },
+            "2011": {
+                "id": "899",
+                "name": "The Honda Classic"
+            },
+            "2012": {
+                "id": "1001",
+                "name": "The Honda Classic"
+            },
+            "2013": {
+                "id": "1188",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1313",
+                "name": "The Honda Classic"
+            }
+        },
+        "1314": {
+            "2001": {
+                "id": "12",
+                "name": "Bay Hill Invitational"
+            },
+            "2002": {
+                "id": "76",
+                "name": "Bay Hill Invitational presented by Cooper Tires"
+            },
+            "2003": {
+                "id": "124",
+                "name": "Bay Hill Invitational presented by Cooper Tires"
+            },
+            "2004": {
+                "id": "157",
+                "name": "Bay Hill Invitational Presented by MasterCard"
+            },
+            "2005": {
+                "id": "206",
+                "name": "Bay Hill Invitational Presented by MasterCard"
+            },
+            "2006": {
+                "id": "258",
+                "name": "Bay Hill Invitational Presented by MasterCard"
+            },
+            "2007": {
+                "id": "305",
+                "name": "Arnold Palmer Invitational presented by MasterCard"
+            },
+            "2008": {
+                "id": "421",
+                "name": "Arnold Palmer Invitational presented by MasterCard"
+            },
+            "2009": {
+                "id": "534",
+                "name": "Arnold Palmer Invitational presented by MasterCard"
+            },
+            "2010": {
+                "id": "772",
+                "name": "Arnold Palmer Invitational presented by MasterCard"
+            },
+            "2011": {
+                "id": "900",
+                "name": "Arnold Palmer Invitational presented by MasterCard"
+            },
+            "2012": {
+                "id": "1002",
+                "name": "Arnold Palmer Invitational presented by MasterCard"
+            },
+            "2013": {
+                "id": "1189",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1314",
+                "name": "Arnold Palmer Invitational presented by MasterCard"
+            }
+        },
+        "1315": {
+            "2001": {
+                "id": "19",
+                "name": "Compaq Classic of New Orleans"
+            },
+            "2002": {
+                "id": "83",
+                "name": "Compaq Classic of New Orleans"
+            },
+            "2003": {
+                "id": "130",
+                "name": "HP Classic of New Orleans"
+            },
+            "2004": {
+                "id": "158",
+                "name": "HP Classic of New Orleans"
+            },
+            "2005": {
+                "id": "207",
+                "name": "Zurich Classic of New Orleans"
+            },
+            "2006": {
+                "id": "294",
+                "name": "Zurich Classic of New Orleans"
+            },
+            "2007": {
+                "id": "306",
+                "name": "Zurich Classic of New Orleans"
+            },
+            "2008": {
+                "id": "422",
+                "name": "Zurich Classic of New Orleans"
+            },
+            "2009": {
+                "id": "535",
+                "name": "Zurich Classic of New Orleans"
+            },
+            "2010": {
+                "id": "796",
+                "name": "Zurich Classic of New Orleans"
+            },
+            "2011": {
+                "id": "901",
+                "name": "Zurich Classic of New Orleans"
+            },
+            "2012": {
+                "id": "1003",
+                "name": "Zurich Classic of New Orleans"
+            },
+            "2013": {
+                "id": "1190",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1315",
+                "name": "Zurich Classic of New Orleans"
+            }
+        },
+        "1316": {
+            "2001": {
+                "id": "13",
+                "name": "THE PLAYERS Championship"
+            },
+            "2002": {
+                "id": "77",
+                "name": "THE PLAYERS Championship"
+            },
+            "2003": {
+                "id": "125",
+                "name": "THE PLAYERS Championship"
+            },
+            "2004": {
+                "id": "159",
+                "name": "THE PLAYERS Championship"
+            },
+            "2005": {
+                "id": "208",
+                "name": "THE PLAYERS Championship"
+            },
+            "2006": {
+                "id": "259",
+                "name": "THE PLAYERS Championship"
+            },
+            "2007": {
+                "id": "307",
+                "name": "THE PLAYERS Championship"
+            },
+            "2008": {
+                "id": "423",
+                "name": "THE PLAYERS Championship"
+            },
+            "2009": {
+                "id": "536",
+                "name": "THE PLAYERS Championship"
+            },
+            "2010": {
+                "id": "773",
+                "name": "THE PLAYERS Championship"
+            },
+            "2011": {
+                "id": "902",
+                "name": "THE PLAYERS Championship"
+            },
+            "2012": {
+                "id": "1004",
+                "name": "THE PLAYERS Championship"
+            },
+            "2013": {
+                "id": "1191",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1316",
+                "name": "THE PLAYERS Championship"
+            }
+        },
+        "1317": {
+            "2001": {
+                "id": "15",
+                "name": "Masters Tournament"
+            },
+            "2002": {
+                "id": "80",
+                "name": "Masters Tournament"
+            },
+            "2003": {
+                "id": "127",
+                "name": "Masters Tournament"
+            },
+            "2004": {
+                "id": "161",
+                "name": "Masters Tournament"
+            },
+            "2005": {
+                "id": "210",
+                "name": "Masters Tournament"
+            },
+            "2006": {
+                "id": "261",
+                "name": "Masters Tournament"
+            },
+            "2007": {
+                "id": "309",
+                "name": "Masters Tournament"
+            },
+            "2008": {
+                "id": "425",
+                "name": "Masters Tournament"
+            },
+            "2009": {
+                "id": "537",
+                "name": "The Masters"
+            },
+            "2010": {
+                "id": "774",
+                "name": "The Masters"
+            },
+            "2011": {
+                "id": "980",
+                "name": "The Masters"
+            },
+            "2012": {
+                "id": "1005",
+                "name": "The Masters Tournament"
+            },
+            "2013": {
+                "id": "1192",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1317",
+                "name": "Masters Tournament"
+            }
+        },
+        "1318": {
+            "2001": {
+                "id": "16",
+                "name": "WORLDCOM CLASSIC - The Heritage of Golf"
+            },
+            "2002": {
+                "id": "81",
+                "name": "WORLDCOM CLASSIC - The Heritage of Golf"
+            },
+            "2003": {
+                "id": "128",
+                "name": "MCI Heritage"
+            },
+            "2004": {
+                "id": "162",
+                "name": "MCI Heritage"
+            },
+            "2005": {
+                "id": "211",
+                "name": "MCI Heritage"
+            },
+            "2006": {
+                "id": "262",
+                "name": "Verizon Heritage"
+            },
+            "2007": {
+                "id": "310",
+                "name": "Verizon Heritage"
+            },
+            "2008": {
+                "id": "426",
+                "name": "Verizon Heritage"
+            },
+            "2009": {
+                "id": "538",
+                "name": "Verizon Heritage"
+            },
+            "2010": {
+                "id": "775",
+                "name": "Verizon Heritage"
+            },
+            "2011": {
+                "id": "903",
+                "name": "The Heritage"
+            },
+            "2012": {
+                "id": "1006",
+                "name": "RBC Heritage"
+            },
+            "2013": {
+                "id": "1193",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1318",
+                "name": "RBC Heritage"
+            }
+        },
+        "1319": {
+            "2001": {
+                "id": "18",
+                "name": "Greater Greensboro Chrysler Classic"
+            },
+            "2002": {
+                "id": "82",
+                "name": "Greater Greensboro Chrysler Classic"
+            },
+            "2003": {
+                "id": "109",
+                "name": "Chrysler Classic of Greensboro"
+            },
+            "2004": {
+                "id": "163",
+                "name": "Chrysler Classic of Greensboro"
+            },
+            "2005": {
+                "id": "212",
+                "name": "Chrysler Classic of Greensboro"
+            },
+            "2006": {
+                "id": "284",
+                "name": "Chrysler Classic of Greensboro"
+            },
+            "2007": {
+                "id": "339",
+                "name": "Wyndham Championship"
+            },
+            "2008": {
+                "id": "427",
+                "name": "Wyndham Championship"
+            },
+            "2009": {
+                "id": "539",
+                "name": "Wyndham Championship"
+            },
+            "2010": {
+                "id": "776",
+                "name": "Wyndham Championship"
+            },
+            "2011": {
+                "id": "904",
+                "name": "Wyndham Championship"
+            },
+            "2012": {
+                "id": "1007",
+                "name": "Wyndham Championship"
+            },
+            "2013": {
+                "id": "1194",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1319",
+                "name": "Wyndham Championship"
+            }
+        },
+        "1320": {
+            "2001": {
+                "id": "17",
+                "name": "Shell Houston Open"
+            },
+            "2002": {
+                "id": "78",
+                "name": "Shell Houston Open"
+            },
+            "2003": {
+                "id": "129",
+                "name": "Shell Houston Open"
+            },
+            "2004": {
+                "id": "164",
+                "name": "Shell Houston Open"
+            },
+            "2005": {
+                "id": "213",
+                "name": "Shell Houston Open"
+            },
+            "2006": {
+                "id": "263",
+                "name": "Shell Houston Open"
+            },
+            "2007": {
+                "id": "311",
+                "name": "Shell Houston Open"
+            },
+            "2008": {
+                "id": "428",
+                "name": "Shell Houston Open"
+            },
+            "2009": {
+                "id": "540",
+                "name": "Shell Houston Open"
+            },
+            "2010": {
+                "id": "777",
+                "name": "Shell Houston Open"
+            },
+            "2011": {
+                "id": "905",
+                "name": "Shell Houston Open"
+            },
+            "2012": {
+                "id": "1008",
+                "name": "Shell Houston Open"
+            },
+            "2013": {
+                "id": "1195",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1320",
+                "name": "Shell Houston Open"
+            }
+        },
+        "1321": {
+            "2001": {
+                "id": "20",
+                "name": "Verizon Byron Nelson Classic"
+            },
+            "2002": {
+                "id": "84",
+                "name": "Verizon Byron Nelson Classic"
+            },
+            "2003": {
+                "id": "132",
+                "name": "EDS Byron Nelson Championship"
+            },
+            "2004": {
+                "id": "165",
+                "name": "EDS Byron Nelson Championship"
+            },
+            "2005": {
+                "id": "214",
+                "name": "EDS Byron Nelson Championship"
+            },
+            "2006": {
+                "id": "264",
+                "name": "EDS Byron Nelson Championship"
+            },
+            "2007": {
+                "id": "312",
+                "name": "EDS Byron Nelson Championship"
+            },
+            "2008": {
+                "id": "429",
+                "name": "EDS Byron Nelson Championship"
+            },
+            "2009": {
+                "id": "541",
+                "name": "HP Byron Nelson Championship"
+            },
+            "2010": {
+                "id": "778",
+                "name": "HP Byron Nelson Championship"
+            },
+            "2011": {
+                "id": "906",
+                "name": "HP Byron Nelson Championship"
+            },
+            "2012": {
+                "id": "1009",
+                "name": "HP Byron Nelson Championship"
+            },
+            "2013": {
+                "id": "1196",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1321",
+                "name": "HP Byron Nelson Championship"
+            }
+        },
+        "1322": {
+            "2001": {
+                "id": "21",
+                "name": "MasterCard Colonial"
+            },
+            "2002": {
+                "id": "85",
+                "name": "MasterCard Colonial"
+            },
+            "2003": {
+                "id": "133",
+                "name": "Bank of America Colonial"
+            },
+            "2004": {
+                "id": "166",
+                "name": "Bank of America Colonial"
+            },
+            "2005": {
+                "id": "215",
+                "name": "Bank of America Colonial"
+            },
+            "2006": {
+                "id": "265",
+                "name": "Bank of America Colonial"
+            },
+            "2007": {
+                "id": "313",
+                "name": "Crowne Plaza Invitational at Colonial"
+            },
+            "2008": {
+                "id": "430",
+                "name": "Crowne Plaza Invitational at Colonial"
+            },
+            "2009": {
+                "id": "542",
+                "name": "Crowne Plaza Invitational at Colonial"
+            },
+            "2010": {
+                "id": "779",
+                "name": "Crowne Plaza Invitational at Colonial"
+            },
+            "2011": {
+                "id": "907",
+                "name": "Crowne Plaza Invitational at Colonial"
+            },
+            "2012": {
+                "id": "1010",
+                "name": "Crowne Plaza Invitational at Colonial"
+            },
+            "2013": {
+                "id": "1197",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1322",
+                "name": "Crowne Plaza Invitational at Colonial"
+            }
+        },
+        "1323": {
+            "2001": {
+                "id": "23",
+                "name": "Memorial Tournament"
+            },
+            "2002": {
+                "id": "86",
+                "name": "Memorial Tournament"
+            },
+            "2003": {
+                "id": "134",
+                "name": "the Memorial Tournament"
+            },
+            "2004": {
+                "id": "168",
+                "name": "the Memorial Tournament"
+            },
+            "2005": {
+                "id": "217",
+                "name": "the Memorial Tournament"
+            },
+            "2006": {
+                "id": "267",
+                "name": "the Memorial Tournament"
+            },
+            "2007": {
+                "id": "314",
+                "name": "the Memorial Tournament presented by Morgan Stanle"
+            },
+            "2008": {
+                "id": "431",
+                "name": "the Memorial Tournament presented by Morgan Stanle"
+            },
+            "2009": {
+                "id": "543",
+                "name": "the Memorial Tournament"
+            },
+            "2010": {
+                "id": "780",
+                "name": "the Memorial Tournament presented by Nationwide Insurance"
+            },
+            "2011": {
+                "id": "908",
+                "name": "the Memorial Tournament presented by Nationwide Insurance"
+            },
+            "2012": {
+                "id": "1011",
+                "name": "the Memorial Tournament presented by Nationwide Insurance"
+            },
+            "2013": {
+                "id": "1198",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1323",
+                "name": "the Memorial Tournament presented by Nationwide Insurance"
+            }
+        },
+        "1324": {
+            "2001": {
+                "id": "26",
+                "name": "Buick Classic"
+            },
+            "2002": {
+                "id": "88",
+                "name": "Buick Classic"
+            },
+            "2003": {
+                "id": "137",
+                "name": "Buick Classic"
+            },
+            "2004": {
+                "id": "169",
+                "name": "Buick Classic"
+            },
+            "2005": {
+                "id": "218",
+                "name": "Barclays Classic"
+            },
+            "2006": {
+                "id": "268",
+                "name": "Barclays Classic"
+            },
+            "2007": {
+                "id": "315",
+                "name": "The Barclays *FedExCup"
+            },
+            "2008": {
+                "id": "432",
+                "name": "The Barclays *FedExCup"
+            },
+            "2009": {
+                "id": "544",
+                "name": "The Barclays *FedExCup"
+            },
+            "2010": {
+                "id": "781",
+                "name": "The Barclays"
+            },
+            "2011": {
+                "id": "984",
+                "name": "The Barclays"
+            },
+            "2012": {
+                "id": "1012",
+                "name": "The Barclays"
+            },
+            "2013": {
+                "id": "1199",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1324",
+                "name": "The Barclays"
+            }
+        },
+        "1325": {
+            "2001": {
+                "id": "25",
+                "name": "U.S. Open Championship"
+            },
+            "2002": {
+                "id": "89",
+                "name": "U.S. Open Championship"
+            },
+            "2003": {
+                "id": "136",
+                "name": "U.S. Open Championship"
+            },
+            "2004": {
+                "id": "170",
+                "name": "U.S. Open Championship"
+            },
+            "2005": {
+                "id": "219",
+                "name": "U.S. Open Championship"
+            },
+            "2006": {
+                "id": "269",
+                "name": "U.S. Open Championship"
+            },
+            "2007": {
+                "id": "316",
+                "name": "U.S. Open Championship"
+            },
+            "2008": {
+                "id": "433",
+                "name": "U.S. Open Championship"
+            },
+            "2009": {
+                "id": "545",
+                "name": "U.S. Open Championship"
+            },
+            "2010": {
+                "id": "797",
+                "name": "U.S. Open Championship"
+            },
+            "2011": {
+                "id": "981",
+                "name": "U.S. Open"
+            },
+            "2012": {
+                "id": "1013",
+                "name": "U.S. Open Golf Championship"
+            },
+            "2013": {
+                "id": "1200",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1325",
+                "name": "U.S. Open Golf Championship"
+            }
+        },
+        "1326": {
+            "2001": {
+                "id": "24",
+                "name": "FedEx St. Jude Classic"
+            },
+            "2002": {
+                "id": "91",
+                "name": "FedEx St. Jude Classic"
+            },
+            "2003": {
+                "id": "138",
+                "name": "FedEx St. Jude Classic"
+            },
+            "2004": {
+                "id": "171",
+                "name": "FedEx St. Jude Classic"
+            },
+            "2005": {
+                "id": "220",
+                "name": "FedEx St. Jude Classic"
+            },
+            "2006": {
+                "id": "270",
+                "name": "FedEx St. Jude Classic"
+            },
+            "2007": {
+                "id": "317",
+                "name": "Stanford St. Jude Championship"
+            },
+            "2008": {
+                "id": "434",
+                "name": "Stanford St. Jude Championship"
+            },
+            "2009": {
+                "id": "546",
+                "name": "St. Jude Classic presented by FedEx"
+            },
+            "2010": {
+                "id": "782",
+                "name": "St. Jude Classic presented by Smith & Nephew"
+            },
+            "2011": {
+                "id": "909",
+                "name": "FedEx St. Jude Classic"
+            },
+            "2012": {
+                "id": "1014",
+                "name": "FedEx St. Jude Classic"
+            },
+            "2013": {
+                "id": "1201",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1326",
+                "name": "FedEx St. Jude Classic"
+            }
+        },
+        "1327": {
+            "2001": {
+                "id": "27",
+                "name": "Canon Greater Hartford Open"
+            },
+            "2002": {
+                "id": "90",
+                "name": "Canon Greater Hartford Open"
+            },
+            "2003": {
+                "id": "144",
+                "name": "Greater Hartford Open"
+            },
+            "2004": {
+                "id": "172",
+                "name": "Buick Championship"
+            },
+            "2005": {
+                "id": "221",
+                "name": "Buick Championship"
+            },
+            "2006": {
+                "id": "271",
+                "name": "Buick Championship"
+            },
+            "2007": {
+                "id": "318",
+                "name": "Travelers Championship"
+            },
+            "2008": {
+                "id": "435",
+                "name": "Travelers Championship"
+            },
+            "2009": {
+                "id": "547",
+                "name": "Travelers Championship"
+            },
+            "2010": {
+                "id": "783",
+                "name": "Travelers Championship"
+            },
+            "2011": {
+                "id": "910",
+                "name": "Travelers Championship"
+            },
+            "2012": {
+                "id": "1015",
+                "name": "Travelers Championship"
+            },
+            "2013": {
+                "id": "1202",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1327",
+                "name": "Travelers Championship"
+            }
+        },
+        "1329": {
+            "2001": {
+                "id": "30",
+                "name": "British Open Championship"
+            },
+            "2002": {
+                "id": "94",
+                "name": "British Open Championship"
+            },
+            "2003": {
+                "id": "142",
+                "name": "British Open Championship"
+            },
+            "2004": {
+                "id": "174",
+                "name": "British Open Championship"
+            },
+            "2005": {
+                "id": "223",
+                "name": "British Open Championship"
+            },
+            "2006": {
+                "id": "295",
+                "name": "British Open Championship"
+            },
+            "2007": {
+                "id": "320",
+                "name": "British Open Championship"
+            },
+            "2008": {
+                "id": "411",
+                "name": "British Open Championship"
+            },
+            "2009": {
+                "id": "549",
+                "name": "British Open Championship"
+            },
+            "2010": {
+                "id": "798",
+                "name": "The Open Championship"
+            },
+            "2011": {
+                "id": "982",
+                "name": "The Open Championship"
+            },
+            "2012": {
+                "id": "1017",
+                "name": "The Open Championship"
+            },
+            "2013": {
+                "id": "1204",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1329",
+                "name": "The Open Championship"
+            }
+        },
+        "1330": {
+            "2001": {
+                "id": "35",
+                "name": "PGA Championship"
+            },
+            "2002": {
+                "id": "50",
+                "name": "PGA Championship"
+            },
+            "2003": {
+                "id": "99",
+                "name": "PGA Championship"
+            },
+            "2004": {
+                "id": "177",
+                "name": "PGA Championship"
+            },
+            "2005": {
+                "id": "226",
+                "name": "PGA Championship"
+            },
+            "2006": {
+                "id": "274",
+                "name": "PGA Championship"
+            },
+            "2007": {
+                "id": "322",
+                "name": "PGA Championship"
+            },
+            "2008": {
+                "id": "439",
+                "name": "PGA Championship"
+            },
+            "2009": {
+                "id": "551",
+                "name": "PGA Championship"
+            },
+            "2010": {
+                "id": "799",
+                "name": "PGA Championship"
+            },
+            "2011": {
+                "id": "983",
+                "name": "PGA Championship"
+            },
+            "2012": {
+                "id": "1018",
+                "name": "PGA Championship"
+            },
+            "2013": {
+                "id": "1206",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1330",
+                "name": "PGA Championship"
+            }
+        },
+        "1331": {
+            "2001": {
+                "id": "36",
+                "name": "WGC-NEC Invitational"
+            },
+            "2002": {
+                "id": "51",
+                "name": "WGC-NEC Invitational"
+            },
+            "2003": {
+                "id": "100",
+                "name": "WGC-NEC Invitational"
+            },
+            "2004": {
+                "id": "179",
+                "name": "WGC-NEC Invitational"
+            },
+            "2005": {
+                "id": "228",
+                "name": "WGC-NEC Invitational"
+            },
+            "2006": {
+                "id": "296",
+                "name": "World Golf Championships-Bridgestone Invitational"
+            },
+            "2007": {
+                "id": "324",
+                "name": "World Golf Championships-Bridgestone Invitational"
+            },
+            "2008": {
+                "id": "440",
+                "name": "World Golf Championships-Bridgestone Invitational"
+            },
+            "2009": {
+                "id": "552",
+                "name": "World Golf Championships-Bridgestone Invitational"
+            },
+            "2010": {
+                "id": "785",
+                "name": "World Golf Championships-Bridgestone Invitational"
+            },
+            "2011": {
+                "id": "987",
+                "name": "World Golf Championships-Bridgestone Invitational"
+            },
+            "2012": {
+                "id": "1019",
+                "name": "World Golf Championships-Bridgestone Invitational"
+            },
+            "2013": {
+                "id": "1207",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1331",
+                "name": "World Golf Championships-Bridgestone Invitational"
+            }
+        },
+        "1332": {
+            "2001": {
+                "id": "39",
+                "name": "Bell Canadian Open"
+            },
+            "2002": {
+                "id": "54",
+                "name": "Bell Canadian Open"
+            },
+            "2003": {
+                "id": "102",
+                "name": "Bell Canadian Open"
+            },
+            "2004": {
+                "id": "181",
+                "name": "Bell Canadian Open"
+            },
+            "2005": {
+                "id": "230",
+                "name": "Bell Canadian Open"
+            },
+            "2006": {
+                "id": "277",
+                "name": "Canadian Open"
+            },
+            "2007": {
+                "id": "326",
+                "name": "Canadian Open presented by Franklin Templeton Inve"
+            },
+            "2008": {
+                "id": "442",
+                "name": "RBC Canadian Open"
+            },
+            "2009": {
+                "id": "554",
+                "name": "RBC Canadian Open"
+            },
+            "2010": {
+                "id": "800",
+                "name": "RBC Canadian Open"
+            },
+            "2011": {
+                "id": "986",
+                "name": "RBC Canadian Open"
+            },
+            "2012": {
+                "id": "1020",
+                "name": "RBC Canadian Open"
+            },
+            "2013": {
+                "id": "1208",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1332",
+                "name": "RBC Canadian Open"
+            }
+        },
+        "1333": {
+            "2001": {
+                "id": "32",
+                "name": "John Deere Classic"
+            },
+            "2002": {
+                "id": "96",
+                "name": "John Deere Classic"
+            },
+            "2003": {
+                "id": "103",
+                "name": "John Deere Classic"
+            },
+            "2004": {
+                "id": "182",
+                "name": "John Deere Classic"
+            },
+            "2005": {
+                "id": "231",
+                "name": "John Deere Classic"
+            },
+            "2006": {
+                "id": "278",
+                "name": "John Deere Classic"
+            },
+            "2007": {
+                "id": "327",
+                "name": "John Deere Classic"
+            },
+            "2008": {
+                "id": "443",
+                "name": "John Deere Classic"
+            },
+            "2009": {
+                "id": "555",
+                "name": "John Deere Classic"
+            },
+            "2010": {
+                "id": "786",
+                "name": "John Deere Classic"
+            },
+            "2011": {
+                "id": "913",
+                "name": "John Deere Classic"
+            },
+            "2012": {
+                "id": "1021",
+                "name": "John Deere Classic"
+            },
+            "2013": {
+                "id": "1209",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1333",
+                "name": "John Deere Classic"
+            }
+        },
+        "1334": {
+            "2001": {
+                "id": "45",
+                "name": "Invensys Classic at Las Vegas"
+            },
+            "2002": {
+                "id": "60",
+                "name": "Invensys Classic at Las Vegas"
+            },
+            "2003": {
+                "id": "108",
+                "name": "Las Vegas Invitational"
+            },
+            "2004": {
+                "id": "194",
+                "name": "Michelin Championship at Las Vegas"
+            },
+            "2005": {
+                "id": "234",
+                "name": "Michelin Championship at Las Vegas"
+            },
+            "2006": {
+                "id": "286",
+                "name": "Frys.com Open"
+            },
+            "2007": {
+                "id": "328",
+                "name": "Frys.com Open benefiting Shriners Hospitals for Ch"
+            },
+            "2008": {
+                "id": "444",
+                "name": "Justin Timberlake Shriners Hospitals for Children "
+            },
+            "2009": {
+                "id": "625",
+                "name": "Justin Timberlake Shriners Hospitals for Children Open"
+            },
+            "2010": {
+                "id": "835",
+                "name": "Justin Timberlake Shriners Hospitals for Children Open"
+            },
+            "2011": {
+                "id": "914",
+                "name": "Justin Timberlake Shriners Hospitals for Children Open"
+            },
+            "2012": {
+                "id": "1022",
+                "name": "Justin Timberlake Shriners Hospitals for Children Open"
+            },
+            "2013-14": {
+                "id": "1334",
+                "name": "Shriners Hospitals for Children Open"
+            }
+        },
+        "1335": {
+            "2001": {
+                "id": "43",
+                "name": "Texas Open at LaCantera"
+            },
+            "2002": {
+                "id": "58",
+                "name": "Valero Texas Open"
+            },
+            "2003": {
+                "id": "105",
+                "name": "Valero Texas Open"
+            },
+            "2004": {
+                "id": "184",
+                "name": "Valero Texas Open"
+            },
+            "2005": {
+                "id": "235",
+                "name": "Valero Texas Open"
+            },
+            "2006": {
+                "id": "287",
+                "name": "Valero Texas Open"
+            },
+            "2007": {
+                "id": "329",
+                "name": "Valero Texas Open"
+            },
+            "2008": {
+                "id": "445",
+                "name": "Valero Texas Open"
+            },
+            "2009": {
+                "id": "557",
+                "name": "Valero Texas Open"
+            },
+            "2010": {
+                "id": "801",
+                "name": "Valero Texas Open"
+            },
+            "2011": {
+                "id": "915",
+                "name": "Valero Texas Open"
+            },
+            "2012": {
+                "id": "1023",
+                "name": "Valero Texas Open"
+            },
+            "2013": {
+                "id": "1210",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1335",
+                "name": "Valero Texas Open"
+            }
+        },
+        "1337": {
+            "2001": {
+                "id": "41",
+                "name": "Tampa Bay Classic presented by Buick"
+            },
+            "2002": {
+                "id": "57",
+                "name": "Tampa Bay Classic presented by Buick"
+            },
+            "2003": {
+                "id": "111",
+                "name": "Chrysler Championship"
+            },
+            "2004": {
+                "id": "188",
+                "name": "Chrysler Championship"
+            },
+            "2005": {
+                "id": "239",
+                "name": "Chrysler Championship"
+            },
+            "2006": {
+                "id": "291",
+                "name": "Chrysler Championship"
+            },
+            "2007": {
+                "id": "343",
+                "name": "PODS Championship"
+            },
+            "2008": {
+                "id": "448",
+                "name": "PODS Championship"
+            },
+            "2009": {
+                "id": "559",
+                "name": "Transitions Championship"
+            },
+            "2010": {
+                "id": "788",
+                "name": "Transitions Championship"
+            },
+            "2011": {
+                "id": "918",
+                "name": "Transitions Championship"
+            },
+            "2012": {
+                "id": "1061",
+                "name": "Transitions Championship"
+            },
+            "2013": {
+                "id": "1212",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1337",
+                "name": "Valspar Championship"
+            }
+        },
+        "1338": {
+            "2001": {
+                "id": "1",
+                "name": "WGC-Accenture Match Play Championship"
+            },
+            "2002": {
+                "id": "72",
+                "name": "WGC-Accenture Match Play Championship"
+            },
+            "2003": {
+                "id": "113",
+                "name": "WGC-Accenture Match Play Championship"
+            },
+            "2004": {
+                "id": "189",
+                "name": "WGC-Accenture Match Play Championship"
+            },
+            "2005": {
+                "id": "240",
+                "name": "WGC-Accenture Match Play Championship"
+            },
+            "2006": {
+                "id": "280",
+                "name": "World Golf Championships-Accenture Match Play Cham"
+            },
+            "2007": {
+                "id": "331",
+                "name": "World Golf Championships-Accenture Match Play Cham"
+            },
+            "2008": {
+                "id": "412",
+                "name": "World Golf Championships-Accenture Match Play Cham"
+            },
+            "2009": {
+                "id": "560",
+                "name": "World Golf Championships-Accenture Match Play Championship"
+            },
+            "2010": {
+                "id": "802",
+                "name": "World Golf Championships-Accenture Match Play Championship"
+            },
+            "2011": {
+                "id": "919",
+                "name": "World Golf Championships-Accenture Match Play Championship"
+            },
+            "2012": {
+                "id": "1025",
+                "name": "World Golf Championships-Accenture Match Play Championship"
+            },
+            "2013": {
+                "id": "1213",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1338",
+                "name": "World Golf Championships-Accenture Match Play Championship"
+            }
+        },
+        "1339": {
+            "2001": {
+                "id": "37",
+                "name": "Reno-Tahoe Open"
+            },
+            "2002": {
+                "id": "52",
+                "name": "Reno-Tahoe Open"
+            },
+            "2003": {
+                "id": "101",
+                "name": "Reno Tahoe Open"
+            },
+            "2004": {
+                "id": "190",
+                "name": "Reno-Tahoe Open"
+            },
+            "2005": {
+                "id": "241",
+                "name": "Reno-Tahoe Open"
+            },
+            "2006": {
+                "id": "281",
+                "name": "Reno-Tahoe Open"
+            },
+            "2007": {
+                "id": "332",
+                "name": "Reno-Tahoe Open"
+            },
+            "2008": {
+                "id": "450",
+                "name": "Legends Reno-Tahoe Open"
+            },
+            "2009": {
+                "id": "561",
+                "name": "Legends Reno-Tahoe Open"
+            },
+            "2010": {
+                "id": "789",
+                "name": "Reno-Tahoe Open"
+            },
+            "2011": {
+                "id": "920",
+                "name": "Reno-Tahoe Open"
+            },
+            "2012": {
+                "id": "1026",
+                "name": "Reno-Tahoe Open"
+            },
+            "2013": {
+                "id": "1214",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1339",
+                "name": "Barracuda Championship"
+            }
+        },
+        "1340": {
+            "2001": {
+                "id": "40",
+                "name": "WGC-American Express Championship"
+            },
+            "2002": {
+                "id": "56",
+                "name": "WGC-American Express Championship"
+            },
+            "2003": {
+                "id": "106",
+                "name": "WGC-American Express Championship"
+            },
+            "2004": {
+                "id": "191",
+                "name": "WGC-American Express Championship"
+            },
+            "2005": {
+                "id": "242",
+                "name": "WGC-American Express Championship"
+            },
+            "2006": {
+                "id": "293",
+                "name": "World Golf Championships-American Express Champion"
+            },
+            "2007": {
+                "id": "344",
+                "name": "World Golf Championships-CA Championship"
+            },
+            "2008": {
+                "id": "451",
+                "name": "World Golf Championships-CA Championship"
+            },
+            "2009": {
+                "id": "562",
+                "name": "World Golf Championships-CA Championship"
+            },
+            "2010": {
+                "id": "790",
+                "name": "World Golf Championships-CA Championship"
+            },
+            "2011": {
+                "id": "985",
+                "name": "World Golf Championships-Cadillac Championship"
+            },
+            "2012": {
+                "id": "1027",
+                "name": "World Golf Championships-Cadillac Championship"
+            },
+            "2013": {
+                "id": "1215",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1340",
+                "name": "World Golf Championships-Cadillac Championship"
+            }
+        },
+        "1341": {},
+        "1342": {
+            "2003": {
+                "id": "131",
+                "name": "Wachovia Championship"
+            },
+            "2004": {
+                "id": "192",
+                "name": "Wachovia Championship"
+            },
+            "2005": {
+                "id": "243",
+                "name": "Wachovia Championship"
+            },
+            "2006": {
+                "id": "282",
+                "name": "Wachovia Championship"
+            },
+            "2007": {
+                "id": "333",
+                "name": "Wachovia Championship"
+            },
+            "2008": {
+                "id": "452",
+                "name": "Wachovia Championship"
+            },
+            "2009": {
+                "id": "563",
+                "name": "Quail Hollow Championship"
+            },
+            "2010": {
+                "id": "791",
+                "name": "Wells Fargo Championship"
+            },
+            "2011": {
+                "id": "921",
+                "name": "Wells Fargo Championship"
+            },
+            "2012": {
+                "id": "1028",
+                "name": "Wells Fargo Championship"
+            },
+            "2013": {
+                "id": "1216",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1342",
+                "name": "Wells Fargo Championship"
+            }
+        },
+        "1343": {
+            "2003": {
+                "id": "141",
+                "name": "Deutsche Bank Championship"
+            },
+            "2004": {
+                "id": "193",
+                "name": "Deutsche Bank Championship"
+            },
+            "2005": {
+                "id": "244",
+                "name": "Deutsche Bank Championship"
+            },
+            "2006": {
+                "id": "283",
+                "name": "Deutsche Bank Championship"
+            },
+            "2007": {
+                "id": "334",
+                "name": "Deutsche Bank Championship *FedExCup"
+            },
+            "2008": {
+                "id": "453",
+                "name": "Deutsche Bank Championship *FedExCup"
+            },
+            "2009": {
+                "id": "564",
+                "name": "Deutsche Bank Championship *FedExCup"
+            },
+            "2010": {
+                "id": "792",
+                "name": "Deutsche Bank Championship"
+            },
+            "2011": {
+                "id": "922",
+                "name": "Deutsche Bank Championship"
+            },
+            "2012": {
+                "id": "1029",
+                "name": "Deutsche Bank Championship"
+            },
+            "2013": {
+                "id": "1217",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1343",
+                "name": "Deutsche Bank Championship"
+            }
+        },
+        "1344": {
+            "2007": {
+                "id": "335",
+                "name": "Mayakoba Golf Classic at Riviera Maya-Cancun"
+            },
+            "2008": {
+                "id": "454",
+                "name": "Mayakoba Golf Classic at Riviera Maya-Cancun"
+            },
+            "2009": {
+                "id": "565",
+                "name": "Mayakoba Golf Classic at Riviera Maya-Cancun"
+            },
+            "2010": {
+                "id": "793",
+                "name": "Mayakoba Golf Classic at Riviera Maya-Cancun"
+            },
+            "2011": {
+                "id": "923",
+                "name": "Mayakoba Golf Classic at Riviera Maya-Cancun"
+            },
+            "2012": {
+                "id": "1030",
+                "name": "Mayakoba Golf Classic"
+            },
+            "2013-14": {
+                "id": "1344",
+                "name": "OHL Classic at Mayakoba"
+            }
+        },
+        "1345": {
+            "2007": {
+                "id": "337",
+                "name": "Fry's Electronics Open"
+            },
+            "2008": {
+                "id": "456",
+                "name": "Frys.com Open"
+            },
+            "2009": {
+                "id": "628",
+                "name": "Frys.com Open"
+            },
+            "2010": {
+                "id": "837",
+                "name": "Frys.com Open"
+            },
+            "2011": {
+                "id": "924",
+                "name": "Frys.com Open"
+            },
+            "2012": {
+                "id": "1031",
+                "name": "Frys.com Open"
+            },
+            "2013-14": {
+                "id": "1345",
+                "name": "Frys.com Open"
+            }
+        },
+        "1346": {
+            "2007": {
+                "id": "346",
+                "name": "AT&T; National"
+            },
+            "2008": {
+                "id": "457",
+                "name": "AT&T; National"
+            },
+            "2009": {
+                "id": "566",
+                "name": "AT&T; National"
+            },
+            "2010": {
+                "id": "803",
+                "name": "AT&T; National"
+            },
+            "2011": {
+                "id": "925",
+                "name": "AT&T; National"
+            },
+            "2012": {
+                "id": "1032",
+                "name": "AT&T; National"
+            },
+            "2013": {
+                "id": "1218",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1346",
+                "name": "Quicken Loans National"
+            }
+        },
+        "1347": {
+            "2008": {
+                "id": "459",
+                "name": "Puerto Rico Open presented by Banco Popular"
+            },
+            "2009": {
+                "id": "567",
+                "name": "Puerto Rico Open presented by Banco Popular"
+            },
+            "2010": {
+                "id": "795",
+                "name": "Puerto Rico Open presented by Banco Popular"
+            },
+            "2011": {
+                "id": "926",
+                "name": "Puerto Rico Open presented by seepuertorico.com"
+            },
+            "2012": {
+                "id": "1033",
+                "name": "Puerto Rico Open presented by seepuertorico.com"
+            },
+            "2013": {
+                "id": "1219",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1347",
+                "name": "Puerto Rico Open presented by seepuertorico.com"
+            }
+        },
+        "1348": {
+            "2010": {
+                "id": "804",
+                "name": "The Greenbrier Classic"
+            },
+            "2011": {
+                "id": "927",
+                "name": "The Greenbrier Classic"
+            },
+            "2012": {
+                "id": "1034",
+                "name": "The Greenbrier Classic"
+            },
+            "2013": {
+                "id": "1220",
+                "name": null
+            },
+            "2013-14": {
+                "id": "1348",
+                "name": "The Greenbrier Classic"
+            }
+        },
+        "1349": {
+            "2010": {
+                "id": "841",
+                "name": "The McGladrey Classic"
+            },
+            "2011": {
+                "id": "928",
+                "name": "The McGladrey Classic"
+            },
+            "2012": {
+                "id": "1035",
+                "name": "The McGladrey Classic"
+            },
+            "2013-14": {
+                "id": "1349",
+                "name": "Northwestern Mutual World Challenge"
+            }
+        },
+        "1350": {
+            "2010": {
+                "id": "845",
+                "name": "CIMB Asia Pacific Classic Malaysia"
+            },
+            "2011": {
+                "id": "929",
+                "name": "CIMB Asia Pacific Classic Malaysia"
+            },
+            "2012": {
+                "id": "1036",
+                "name": "CIMB Classic"
+            },
+            "2013-14": {
+                "id": "1350",
+                "name": "CIMB Classic"
+            }
+        },
+        "1351": {}
+    }
+}
