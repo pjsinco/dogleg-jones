@@ -3,12 +3,19 @@ console.log('hello');
 var data;
 d3.json('/data/tourn-1978-32.json', function(error, json) {
   
-  data = json;
+  console.log(json);
+
+  console.log(Object.keys(json)[34]);
+  console.log(Object.keys(json[3]));
+  //console.log(Object.keys(json[Object.keys(json)][0]));
+
   console.log(data);
-  console.log(typeof(data));
+  
+  //console.log(data);
+  //console.log(typeof(data));
 
   // # of cols reflects # of fields in data
-  console.log(data[22]);
+  //console.log(data[22]);
 
   var fields = d3.keys(data[0]);
   
@@ -26,6 +33,9 @@ d3.json('/data/tourn-1978-32.json', function(error, json) {
       .text(function(d) {
         return d;
       });
+  
+  var tBody = table.append('tbody')
+
   
     
     
