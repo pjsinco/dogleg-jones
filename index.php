@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+    <title>Dogleg Jones</title>
+  </head>
+  <body>
+    <div class="vis">
+      
+    </div>
+
+  <script src="/js/d3.min.js" charset="utf-8"></script>
+  <script src="/js/dogleg.js" charset="utf-8"></script>
+  </body>
+</html>
