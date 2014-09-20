@@ -1,5 +1,7 @@
 console.log('clampett');
 
+// help from: http://bl.ocks.org/mbostock/2368837
+
 var margin = {
   top: 30,
   right: 30,
@@ -7,25 +9,19 @@ var margin = {
   left: 30
 };
 
-var width = 960 - margin.left - margin.right,
-  height = 960 - margin.top - margin.bottom;
-
-var svg = d3.select('.vis')
-  .append('svg')
-  .attr('width', width + margin.left + margin.right)
-  .attr('height', height + margin.top + margin.bottom)
-  .attr('transform', 'translate(' + margin.left + ',' +
-    margin.top + ')');
+var width = 500 - margin.left - margin.right,
+  height = 1200 - margin.top - margin.bottom;
 
 var xScale = d3.scale.linear()
   .range([0, width]);
 
 var yScale = d3.scale.ordinal()
-  .rangeBands([height, 0]);
+  .rangeRoundBands([height, 0], 0.2);
 
 var xAxis = d3.svg.axis()
-  .scale(xAxis)
+  .scale(xScale)
   .orient('top');
+
 
 var dataset;
 
@@ -59,42 +55,82 @@ d3.csv('data/tourn-1978/tourn-1978-32.csv', function(error, data) {
     }
   });
 
+  // sort dataset in place
+  dataset.sort(function(a, b) {
+    return b.r1 - a.r1;
+  });
+
   // we could use d3.exent instead of min, max
   var minScore = d3.min(scores);
   var maxScore = d3.max(scores);
 
-  xScale.domain([minScore, 0, maxScore]);
-  yScale.domain(d3.range(0, data.length));
-  
-  svg.selectAll('rect')
+  xScale.domain([minScore, maxScore])
+  //yScale.domain(d3.range(0, data.length));
+  yScale.domain(dataset.map(function(d) {
+    return d.name; 
+  }));
+
+
+  var svg = d3.select('.vis')
+    .append('svg')
+    .attr('width', width + margin.left + margin.right)
+    .attr('height', height + margin.top + margin.bottom)
+    .append('g')
+      .attr('transform', 'translate(' + margin.left + ',' +
+        margin.top + ')')
+
+  svg.append('g')
+    .classed('x axis', true)
+    .attr('transform', 'translate(100, 0)')
+    .call(xAxis);
+
+  var yAxis = svg.append('g')
+    .classed('y axis', true)
+    .append('line')
+      .attr('x1', xScale(0))
+      .attr('y1', margin.top)
+      .attr('x2', xScale(0))
+      .attr('y1', height - margin.bottom);
+
+  var barGroup = svg.append('g')
+    .classed('bar', true)
+    .attr('transform', 'translate(100, 0)')
+
+  var bars = barGroup.selectAll('rect')
     .data(dataset)
     .enter()
     .append('rect')
       .attr('x', function(d) {
-        return xScale(d.r1 - par);
+        return xScale(Math.min((d.r1 - par), 0));
       })
-      .attr('y', function(d, i) {
-        return yScale(i);
+      .attr('y', function(d) {
+        return yScale(d.name);
       })
       .attr('width', function(d) {
-        return xScale(d.r1 - par);
+        return Math.abs(xScale(d.r1 - par) - xScale(0));
       })
       .attr('height', function(d) {
         return yScale.rangeBand();
       })
-      .style('fill', 'cadetblue')
+      .style('fill', function(d) {
+        return (d.r1 - par) < 0 ? 'brown' : 'steelblue';
+      })
+      .style('opacity', '0.7');
       
-  svg.selectAll('text')
+  var textGroup = svg.append('g')
+    .classed('label', true);
+
+  var text = textGroup.selectAll('text')
     .data(dataset)
     .enter()
     .append('text')
-      .attr('x', function(d) {
-        return width;
+      .attr('x', margin.left)
+      .attr('y', function(d) {
+        return yScale(d.name);
       })
-      .attr('y', function(d, i) {
-        return yScale(i);
-      })
-      .attr('text-anchor', 'end')
+      .attr('text-anchor', 'start')
+      .attr('transform', 'translate(0,' + 
+        (yScale.rangeBand() / 1) + ')')
       .text(function(d) {
         return d.name + ', ' + (d.r1 - par);
       })
